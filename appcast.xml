@@ -12,7 +12,7 @@
                 </ul>
             ]]></description>
             <pubDate>2017-06-08 01:47:00 GMT</pubDate>
-            <enclosure url="https://raw.githubusercontent.com/webfalter/RepoBuilder/RepoBuilder.zip" length="xxx" type="application/octet-stream" sparkle:version="19" sparkle:shortVersionString="2.0">
+            <enclosure url="https://raw.githubusercontent.com/webfalter/RepoBuilder/master/RepoBuilder.zip" length="xxx" type="application/octet-stream" sparkle:version="19" sparkle:shortVersionString="2.0">
             </enclosure>
         </item>
 	</channel>
