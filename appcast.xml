@@ -1,12 +1,19 @@
-<?xml version="1.0" standalone="yes"?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
-    <channel>
-        <title>RepoBuilder</title>
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>RepoBuilder</title>
+		<link>https://xxxxxx/app.xml</link>
+		<description>Changelog</description>
+		<language>en</language>
         <item>
-            <title>0.3.0</title>
-            <pubDate>Sa., 10 Aug. 2019 22:24:22 +0200</pubDate>
-            <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/webfalter/RepoBuilder/blob/master/RepoBuilder.zip?raw=true" sparkle:version="2" sparkle:shortVersionString="0.3.0" length="6616157" type="application/octet-stream"/>
+            <title><![CDATA[Version 2.0]]></title>
+            <description><![CDATA[<ul>
+                <li>RepoBuilder</li>
+                </ul>
+            ]]></description>
+            <pubDate>2017-06-08 01:47:00 GMT</pubDate>
+            <enclosure url="https://raw.githubusercontent.com/webfalter/RepoBuilder/RepoBuilder.zip" length="xxx" type="application/octet-stream" sparkle:version="19" sparkle:shortVersionString="2.0">
+            </enclosure>
         </item>
-    </channel>
+	</channel>
 </rss>
