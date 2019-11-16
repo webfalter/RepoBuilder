@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
-		<title>RepoBuilder</title>
+		<title>Changelog</title>
 		<link>https://xxxxxx/app.xml</link>
-		<description>Changelog</description>
+		<description>ChangelogChangelogChangelogChangelog</description>
 		<language>en</language>
         <item>
             <title><![CDATA[Version 2.0]]></title>
             <description><![CDATA[<ul>
-                <li>RepoBuilder</li>
+                <li>修复问题</li>
                 </ul>
             ]]></description>
             <pubDate>2017-06-08 01:47:00 GMT</pubDate>
