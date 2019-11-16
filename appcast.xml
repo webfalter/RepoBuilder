@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>RepoBuilder</title>
+        <item>
+            <title>0.4.0</title>
+            <pubDate>Sa., 10 Aug. 2019 22:24:22 +0200</pubDate>
+            <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/webfalter/RepoBuilder/blob/master/RepoBuilder.zip" sparkle:version="2" sparkle:shortVersionString="0.4.0" length="7094437" type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
