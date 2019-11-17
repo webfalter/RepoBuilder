@@ -7,7 +7,7 @@
             <pubDate>Sa., 16 Nov. 2019 21:06:50 +0100</pubDate>
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
             <enclosure url="https://raw.githubusercontent.com/webfalter/RepoBuilder/master/RepoBuilder.zip" sparkle:version="0.3.0" sparkle:shortVersionString="0.3.0" length="6622366" type="application/octet-stream" sparkle:edSignature="LjbpbhS3ngWTiu7ZH8Wl4bfGyQQiECz7XW39PG+RF3fDsFEmMbseH6IU+xb8OgKgpDtLyKBMuMKQZrQoThjxCg=="/>
-            <sparkle:releaseNotesLink>https://rawgit.com/webfalter/RepoBuilder/blob/master/RepoBuilder.html</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink>https://htmlpreview.github.io/?https://github.com/webfalter/RepoBuilder/blob/gh-pages/RepoBuilder.html</sparkle:releaseNotesLink>
         </item>
     </channel>
 </rss>
